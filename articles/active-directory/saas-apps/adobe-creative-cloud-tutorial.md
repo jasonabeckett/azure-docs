@@ -91,7 +91,7 @@ Follow these steps to enable Azure AD SSO in the Azure portal.
     `https://adobe.com`
 
     b. In the **Identifier (Entity ID)** text box, type a URL using the following pattern:
-    `https://www.okta.com/saml2/service-provider/<token>`
+    `https://www.okta.com/saml2/service-provider/AdobeCreativeCloudInstanceID`
 
 	> [!NOTE]
 	> The Identifier value is not real. Update this value with the actual Identifier. Contact [Adobe Creative Cloud Client support team](https://www.adobe.com/au/creativecloud/business/teams/plans.html) to get this value. You can also refer to the patterns shown in the **Basic SAML Configuration** section in the Azure portal.
